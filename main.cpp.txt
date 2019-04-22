@@ -1,0 +1,9 @@
+int main(){
+	
+
+	cout << "fezes!" << endl;
+
+	return 0;
+
+
+}
